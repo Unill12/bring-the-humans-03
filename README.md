@@ -1,6 +1,10 @@
 # Bring the humans with a TikTok ad — make.fun bounty entry
 
-A short vertical video ad for make.fun, in Bahasa Indonesia. The video is the
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/Unill12/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/Unill12/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
+A short vertical video ad for make.fun, in Bahasa Indonesia, for the [Bring the humans with a TikTok ad bounty](https://make.fun/bounty/bring-the-humans-03). The video is the
 entry; places go by its TikTok views, the most first.
 
 ## The ad (16 s, 1080x1920, 30 fps)
